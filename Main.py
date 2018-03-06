@@ -5,7 +5,7 @@ def main():
           'stamped on these lifeless things. the hand that mocked them and the heart that fed. And on the pedestal,'
           'these words appear: My name is Ozymandias, king of kings. Look upon my work ye mighty and dispair. Nothing'
           'beside remains ere the decay of that colassal wreck. Boundless and bare the lone and level sands stretch'
-          'far away. Way to peachy.')
+          'far away. ')
 
 
 if __name__ == '__main__':
